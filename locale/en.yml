@@ -1,0 +1,4 @@
+xypp-collector-view-history:
+  forum:
+    condition:
+      view-history: "View history"
